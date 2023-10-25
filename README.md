@@ -5,4 +5,4 @@ Willkommen zu unserer Repo. Hier werden im Laufen des Semesters, jegliche Aufgab
 
 ---
 
-![Monkeh](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpkdGJpMjF0Z281OW5yMmRtcTFpYnl3bjFzMzVlazMycGhyNGF6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif)
+![Monkeh]([https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpkdGJpMjF0Z281OW5yMmRtcTFpYnl3bjFzMzVlazMycGhyNGF6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif](https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif)https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif)
